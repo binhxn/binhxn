@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+something something front-end developer
+
 <!--
 **binhxn/binhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
