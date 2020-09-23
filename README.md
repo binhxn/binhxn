@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/binhxnguyen"><img src="https://img.shields.io/badge/-binhxnguyen-0072b1?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-## About Me 🌠
+## About Me
 I'm a front-end developer based in Los Angeles, California ☀️ . I generally code with **React**, **React Native**, and **Typescript** and am always intrigued with design systems ✨.
 
 
-## My GitHub Stats 📊
+## My (public) GitHub Stats
 [![Binh's github stats](https://github-readme-stats.vercel.app/api?username=binhxn)](https://github.com/binhxn/github-readme-stats)
 
 <!--
