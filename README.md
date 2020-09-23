@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/binhxnguyen"><img src="https://img.shields.io/badge/-binhxnguyen-0072b1?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-- I do things with **React**, **React Native**, and **Typescript**
+- I do things with **React**, **React Native**, and **Typescript** 🔥
 - Always intrigued with design systems ✨
 - Currently learning Cypress 🛠️
 
