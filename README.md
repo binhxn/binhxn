@@ -8,7 +8,7 @@
 
 - I do things with **React**, **React Native**, and **Typescript** 🔥
 - Always intrigued with design systems ✨
-- Currently learning Cypress 🛠️
+- Making my way through Cypress 🛠️
 
 
 ## Tools I Use
