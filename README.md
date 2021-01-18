@@ -1,8 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Binh</h1>
-<h3 align="center">A front-end developer based in Los Angeles, California ☀️</h3>
+<h1>Hi there 👋, I'm Binh</h1>
+<h3>A front-end developer based in Los Angeles, California ☀️</h3>
+
+
 
 <p align="center">
-  <a href="https://github.com/binhxn"><img src="https://visitor-badge.laobi.icu/badge?page_id=binhxn.binhxn" alt="GitHub"></a>
+
   <a href="https://www.linkedin.com/in/binhxnguyen"><img src="https://img.shields.io/badge/-binhxnguyen-0072b1?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -36,4 +38,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+Previous Badge References
+
+<a href="https://github.com/binhxn"><img src="https://visitor-badge.laobi.icu/badge?page_id=binhxn.binhxn" alt="GitHub"></a>
+
 -->
