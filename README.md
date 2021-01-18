@@ -1,9 +1,10 @@
 <h1>Hi there 👋, I'm Binh</h1>
-<h3>A front-end developer based in Los Angeles, California ☀️</h3>
+<h3>A front-end developer based in Cupertino, California 🌲</h3>
 
 - I do things with **React**, **React Native**, and **Typescript** 🔥
 - Always intrigued with design systems ✨
 - Making my way through Cypress 🛠️
+- Born and raised in LA ☀️🌴
 
 
 <a href="https://github.com/binhxn/binhxn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=binhxn&show_icons=true" alt="binhxn" /></a>
