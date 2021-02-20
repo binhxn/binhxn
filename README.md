@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Binh</h1>
-<h3>A front-end developer based in Cupertino, California 🌲</h3>
+<h3>A UI engineer based in Cupertino, California 🌲</h3>
 
 - I do things with **React**, **React Native**, and **Typescript** 🔥
 - Always intrigued with design systems ✨
