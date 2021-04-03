@@ -19,7 +19,7 @@
 
 
 
-## Books to Read 📚
+## Book List 📚
 
 - [Web Scalability for Startup Engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655)
 - [EMPOWERED: Ordinary People, Extraordinary Products](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X/ref=pd_sbs_14_1/141-6017459-7625457?_encoding=UTF8&pd_rd_i=111969129X&pd_rd_r=a07aab61-036b-42a0-9d6f-6b85d74f42d8&pd_rd_w=n2tBs&pd_rd_wg=u3cpu&pf_rd_p=ed1e2146-ecfe-435e-b3b5-d79fa072fd58&pf_rd_r=A8PHZ90KFRE9FXKEJWHJ&psc=1&refRID=A8PHZ90KFRE9FXKEJWHJ)
