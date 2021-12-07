@@ -3,8 +3,8 @@
 
 - I do things with **React**, **React Native**, and **Typescript** 🔥
 - Always intrigued with design systems ✨
-- Making my way through Cypress 🛠️
 - Born and raised in LA ☀️🌴
+<!-- - Making my way through Cypress 🛠️ -->
 
 
 <a href="https://github.com/binhxn/binhxn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=binhxn&show_icons=true" alt="binhxn" /></a>
